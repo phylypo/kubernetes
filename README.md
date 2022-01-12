@@ -11,7 +11,8 @@ Various notes and tutorial on Kubernetes
 - Deploy ingress
 - Create Let's encrypt issuer
 - Generate a certificate
-Code in cert_devops directory
+
+Code in [cert_devops](cert_devops) directory. See [cert_devops.sh](cert_devops/cert_devops.sh) for step by step instruction.
 
 Source: Free SSL for Kubernetes with Cert-Manager by That DevOps Guy
 - https://www.youtube.com/watch?v=hoLUigg4V18
