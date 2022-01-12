@@ -1,3 +1,8 @@
+# connect to Azure from your browser
+# Run cloudshell
+# Close this repo from your cloudshell
+# cd into cert/devops
+
 az group create --name k8rg --location westus2
 az aks create --resource-group k8rg --name myAKSCluster --node-count 1
 az aks get-credentials --resource-group k8rg --name myAKSCluster
